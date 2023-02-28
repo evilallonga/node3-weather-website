@@ -1,5 +1,3 @@
-console.log("Client side javascript file is loaded!");
-
 /* const address = "Boston";
 const urlMapBox =
   "https://api.mapbox.com/geocoding/v5/mapbox.places/" +
